@@ -1,0 +1,60 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Kubernetes
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Deploy and manage application on Kubernetes. Deploy k8s on-prem or cloud infrastructure."
+#
+- name: Openshift
+  logo: "/images/sections/skills/openshift.png"
+  summary: "Install and deploy Openshift. Deploy and manage applications"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Dockerfiles development. Dockerize legacy applications."
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Worked with most major clouds such as GCP, AWS, Azure, Oracle, etc."
+#
+#
+- name: Ansible
+  logo: /images/sections/skills/ansible.png
+  summary: "Design and write Ansible playbooks for automate repetive tasks. Ansible Tower/AWX."
+#
+- name: Linux
+  logo: "/images/sections/skills/linux.png"
+  summary: "Senior at RedHat Based, Debian Based at Suse linux distros. RedHat Certified Engineer."
+#
+- name: Shell Scripting
+  logo: "/images/sections/skills/bash.png"
+  summary: "High skilled shell script writer"
+#
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Experienced with git-based development."
+#
+- name: Mysql
+  logo: "/images/sections/skills/mysql.png"
+  summary: "Install, clustering, import, export and troubleshoot Mysql databases."
+#
+- name: Webservers
+  logo: "/images/sections/skills/http.png"
+  summary: "Apache, NGINX, Tomcat."
+#
+- name: Virtualization
+  logo: "/images/sections/skills/virtualization.png"
+  summary: "VMWware, Red Hat Virtualization, Oracle Virtualization, XEN."
+#
+- name: Legacy UNIX OS
+  logo: "/images/sections/skills/legacy.png"
+  summary: "HPUX, Solaris, AIX."

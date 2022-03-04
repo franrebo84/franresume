@@ -1,0 +1,61 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Synchro Technologies
+    url: "https://www.synchro-technologies.com"
+    location: Buenos Aires - Argentina
+    # company overview
+    overview: Professional infrastructure services for mission-critical system
+  positions:
+  - designation:  SRE/UNIX Team Leader
+    start: January 2016
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design of Infrastructures, Architectures and their implementation.
+    - Collaborate with development teams to implement applications on containers and orchestrators.
+    - Design, development and testing of automations. 
+    - Development and maintenance of engineering processes according to DevOps and SRE best practices.
+    - Linux/Unix Technical Leader of a team of 4 people serving more than 20 clients.
+
+- company:
+    name: Synchro Technologies
+    url: "https://www.synchro-technologies.com"
+    location: Buenos Aires - Argentina
+    # company overview
+    overview: Professional infrastructure services for mission-critical system
+  positions:
+  - designation: UNIX Technology Consultant
+    start: January 2010
+    end: January 2016
+    responsibilities:
+    - Analysis and troubleshooting in large-scale production environments.
+    - Technical consultancy on Linux / Unix operating systems.
+    - Linux training instructor.
+    - Drafting pre-sales and technical proposals.
+    - Training of new sysadmins.
+- company:
+    name: Synchro Technologies
+    url: "https://www.synchro-technologies.com"
+    location: Buenos Aires - Argentina
+    # company overview
+    overview: Professional infrastructure services for mission-critical system
+  positions:
+  - designation: Unix Technology Administrator
+    start: September 2007
+    end: January 2010
+    responsibilities:
+    - Implementation, administration and technical support of Linux, Solaris, and HPUX Operating systems with HP, Dell and Oracle technologies.
+    - Participation in installation, upgrade, and migration projects of environments for financial, telecommunications, and insurance companies, among others.
+    - Implementation, administration and maintenance of server monitoring.

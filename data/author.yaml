@@ -3,15 +3,18 @@ nickname: "Francisco"
 image: "images/avatar-fran.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi!, I am"
+greeting: "Hi! I am"
 
 # give your contact information. they will be used in the footer
 contactInfo:
   email: "rebolledo.francisco@gmail.com"
-  phone: "+5491140751095"
+  phone: "+54 9 11 40751095"
 
 # a summary of what you do
 summary:
-- I am Linux/Unix Consultant.
-- But also a Site Reliability Engineer
-- I love to work with challenging projects and new technologie.
+- I am a Linux/Unix Consultant.
+- But also a Site Reliability Engineer.
+- I love to work with challenging projects and new technologies.
+- I built this site using Hugo, Toha template, Docker, Traefik and Oracle Cloud VPS.
+- ... And fail2ban keeps out malicious people :).
+
