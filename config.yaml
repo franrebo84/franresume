@@ -1,4 +1,6 @@
 baseURL: https://franrebo84.github.io/franresume/
+canonifyURLs: true
+
 
 languageCode: en-us
 title: "Francisco Rebolledo"
