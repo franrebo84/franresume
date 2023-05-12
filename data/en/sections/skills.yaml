@@ -26,6 +26,9 @@ skills:
   logo: /images/sections/skills/cloud.png
   summary: "Worked with most major clouds such as GCP, AWS, Azure, Oracle, etc."
 #
+- name: Terraform
+  logo: /images/sections/skills/terraform.png
+  summary: "Design and write Terraform modules for automate repetive tasks."
 #
 - name: Ansible
   logo: /images/sections/skills/ansible.png
@@ -34,6 +37,10 @@ skills:
 - name: Linux
   logo: "/images/sections/skills/linux.png"
   summary: "Senior at RedHat Based, Debian Based at Suse linux distros. RedHat Certified Engineer."
+#
+- name: Windows
+  logo: /images/sections/skills/windows.png
+  summary: "Windows Server 2012, 2016, 2019. Active Directory, DNS, DHCP, IIS, etc."
 #
 - name: Shell Scripting
   logo: "/images/sections/skills/bash.png"

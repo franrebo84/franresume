@@ -11,6 +11,23 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: GoodHabitz
+    url: "https://www.goodhabitz.com"
+    location: Eindhoven - Netherlands
+    overview: Online training platform
+  positions:
+  - designation: Senior Platform Engineer
+    start: July 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Present
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and implement infrastructure solutions using cloud platforms such as AWS, Azure, or Google Cloud Platform (GCP).
+    - Collaborate with development teams to implement applications on containers and orchestrators.
+    - Manage and maintain the company's infrastructure, ensuring its stability, security, and scalability.
+    - Develop and maintain CI/CD pipelines to enable efficient and automated deployment processes. 
+    - Ensure high availability and disaster recovery capabilities for critical systems and applications.
+- company:
     name: Synchro Technologies
     url: "https://www.synchro-technologies.com"
     location: Buenos Aires - Argentina
