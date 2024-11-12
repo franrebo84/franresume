@@ -29,23 +29,20 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/francisco-rebolledo/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://www.twitter.com/franrebo"
-
 # your resume. this file path should be relative to you "static" directory
-resume: "images/CV_FranciscoRebolledo.pdf"
+resume: "files/CV_Francisco_Rebolledo.pdf"
 
 badges:
 - type: certification
   name: Red Hat Certified Engineer
   url: "https://rhtapps.redhat.com/certifications/badge/verify/3MMYXYHZEZCPRRS7JGAAR5VJUIAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="
-  badge: "https://me.rebo.ar/images/RHCE-Badge.png"
+  badge: "https://images.credly.com/size/680x680/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png"
 
 - type: certification
   name: Red Hat Certified System Administrator
   url: "https://rhtapps.redhat.com/certifications/badge/verify/3MMYXYHZEZCPRRS7JGAAR5VJUIAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
-  badge: "https://me.rebo.ar/images/RHCSA-Badge.png"
+  badge: "https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png"
+
 
 
 - type: soft-skill-indicator

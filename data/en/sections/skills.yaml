@@ -11,57 +11,50 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
+  logo: /images/kubernetes.png
   summary: "Deploy and manage application on Kubernetes. Deploy k8s on-prem or cloud infrastructure."
-#
 - name: Openshift
-  logo: "/images/sections/skills/openshift.png"
+  logo: "/images/openshift.png"
   summary: "Install and deploy Openshift. Deploy and manage applications"
-
 - name: Docker
-  logo: /images/sections/skills/docker.svg
+  logo: /images/docker.png
   summary: "Dockerfiles development. Dockerize legacy applications."
-
 - name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
+  logo: /images/cloud.png
   summary: "Worked with most major clouds such as GCP, AWS, Azure, Oracle, etc."
-#
 - name: Terraform
-  logo: /images/sections/skills/terraform.png
+  logo: /images/terraform.png
   summary: "Design and write Terraform modules for automate repetive tasks."
-#
 - name: Ansible
-  logo: /images/sections/skills/ansible.png
+  logo: /images/ansible.png
   summary: "Design and write Ansible playbooks for automate repetive tasks. Ansible Tower/AWX."
-#
 - name: Linux
-  logo: "/images/sections/skills/linux.png"
+  logo: "/images/linux.png"
   summary: "Senior at RedHat Based, Debian Based at Suse linux distros. RedHat Certified Engineer."
-#
 - name: Windows
-  logo: /images/sections/skills/windows.png
+  logo: /images/windows.png
   summary: "Windows Server 2012, 2016, 2019. Active Directory, DNS, DHCP, IIS, etc."
-#
 - name: Shell Scripting
-  logo: "/images/sections/skills/bash.png"
+  logo: "/images/bash.png"
   summary: "High skilled shell script writer"
-#
 - name: Git
-  logo: "/images/sections/skills/git.png"
+  logo: "/images/git.png"
   summary: "Experienced with git-based development."
-#
-- name: Mysql
-  logo: "/images/sections/skills/mysql.png"
-  summary: "Install, clustering, import, export and troubleshoot Mysql databases."
-#
-- name: Webservers
-  logo: "/images/sections/skills/http.png"
-  summary: "Apache, NGINX, Tomcat."
-#
+- name: Monitoring
+  logo: "/images/aa.png"
+  summary: "Prometheus, Grafana, Datadog, Nagios"
+- name: CI/CD
+  logo: "/images/cicd.png"
+  summary: "Gitlab CI, Github Actions, CircleCI."
+- name: Databases
+  logo: "/images/db.png"
+  summary: "Install, clustering, import, export and troubleshoot MySQL, MariaDB, PostgreSQL."
+- name: Webservers and Load Balancers
+  logo: "/images/http.png"
+  summary: "Apache, NGINX, HAProxy, Traefik."
 - name: Virtualization
-  logo: "/images/sections/skills/virtualization.png"
+  logo: "/images/virtualization.png"
   summary: "VMWware, Red Hat Virtualization, Oracle Virtualization, XEN."
-#
 - name: Legacy UNIX OS
-  logo: "/images/sections/skills/legacy.png"
+  logo: "/images/legacy.png"
   summary: "HPUX, Solaris, AIX."
