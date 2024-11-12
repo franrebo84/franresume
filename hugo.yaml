@@ -82,6 +82,15 @@ params:
     # Enable Table of contents in reading page
     toc:
       enable: true
+    analytics:
+      enabled: false
+      services:
+        # cloudflare web analytics
+        # cloudflare:
+        #   token: "<token>"
+        # Google Analytics
+        google:
+          id: G-JZ2FJEJ868
 
   # Configure footer
   footer:
