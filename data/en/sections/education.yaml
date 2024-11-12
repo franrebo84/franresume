@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Computer Science & Engineering
+  icon: fa-graduation-cap
+  timeframe: 2003-2011
+  institution:
+    name: Universidad Nacional de La Matanza (UNLAM)
+
+- name: Red Hat Certified System Administrator (RHCSA)
+  icon: fa-graduation-cap
+  timeframe: 2015-2015
+  institution:
+    name: Red Hat Training
+
+- name: Red Hat Certified Engineer (RHCE)
+  icon: fa-graduation-cap
+  timeframe: 2017-2017
+  institution:
+    name: Red Hat Training
+
+- name: Red Hat Openshift Administration
+  icon: fa-graduation-cap
+  timeframe: 2019-2019
+  institution:
+    name: Red Hat Training

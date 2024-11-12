@@ -1,0 +1,66 @@
+section:
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+
+# your designation
+designation: SRE/UNIX Team Leader
+# your company information
+company:
+  name: Synchro Technologies
+  url: "https://www.synchro-technologies.com"
+
+#summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I have been working in the IT industry for slightly over 14 years, primarily as a senior Linux Consultant/Site Reliability Engineer. I have been a team leader of a group of four people for the last two years. I have a passion for what I do. Not only do I find this work rewarding and interesting, but genuinely love the process of troubleshooting network and computer system software and hardware failures.'
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "rebolledo.francisco@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/franrebo84"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/francisco-rebolledo/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV_Francisco_Rebolledo.pdf"
+
+badges:
+- type: certification
+  name: Red Hat Certified Engineer
+  url: "https://rhtapps.redhat.com/certifications/badge/verify/3MMYXYHZEZCPRRS7JGAAR5VJUIAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="
+  badge: "https://images.credly.com/size/680x680/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png"
+
+- type: certification
+  name: Red Hat Certified System Administrator
+  url: "https://rhtapps.redhat.com/certifications/badge/verify/3MMYXYHZEZCPRRS7JGAAR5VJUIAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
+  badge: "https://images.credly.com/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png"
+
+
+
+- type: soft-skill-indicator
+  name: Troubleshooting
+  percentage: 100
+  color: green
+  
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: TeawWork
+  percentage: 100
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hardworking
+  percentage: 100
+  color: orange
