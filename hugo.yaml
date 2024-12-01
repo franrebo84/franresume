@@ -85,12 +85,10 @@ params:
     analytics:
       enabled: true
       services:
-        # cloudflare web analytics
-        # cloudflare:
-        #   token: "<token>"
-        # Google Analytics
         google:
           id: G-JZ2FJEJ868
+        cloudflare:
+          token: "405130bd15db4937b5938bc5479d23fb"
 
   # Configure footer
   footer:
