@@ -83,7 +83,7 @@ params:
     toc:
       enable: true
     analytics:
-      enabled: false
+      enabled: true
       services:
         # cloudflare web analytics
         # cloudflare:
