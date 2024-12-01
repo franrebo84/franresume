@@ -117,3 +117,7 @@ params:
     disclaimer:
       enable: true
 
+privacy:
+  googleAnalytics:
+    disable: false
+    respectDoNotTrack: true
