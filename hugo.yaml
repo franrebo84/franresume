@@ -87,6 +87,7 @@ params:
       services:
         google:
           id: G-JZ2FJEJ868
+          respectDoNotTrack: true
         cloudflare:
           token: "405130bd15db4937b5938bc5479d23fb"
 
